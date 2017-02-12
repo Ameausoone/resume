@@ -1,0 +1,151 @@
+= CV - Antoine Méausoone - Ingénieur étude et développement
+:author: Antoine Méausoone
+:data-uri:
+:doctype: article
+:encoding: UTF-8
+:lang: fr
+:quirks:
+:theme: cv
+:toclevels: 2
+:description:
+
+.Compétences professionnelles
+****************************************************************************
+Avec une très bonne expérience en développement Java (Maven, TestNG,IOC), autour d’applications de reporting et de monitoring (JMS, Zabbix).
+J’ai également eu l’occasion de travailler sur des projets d’intégration (CentOS,Jenkins, Git, Nexus).
+Sur ma dernière mission, j’ai eu l’occasion sur à plein temps sur les problématiques d'intégration notamment avec le produit Ansible couplé avec Jenkins.
+
+****************************************************************************
+
+== Perso
+
+Name::
+    Antoine Méausoone
+
+Résidence::
+    Haubourdin, France
+
+////
+Téléphone::
+    06.13.84.54.33
+////
+
+Email::
+    meausoone.a@sfeir.com
+
+Résumé::
+    https://www.linkedin.com/in/antoinemeausoone
+
+Âge::
+    37 ans
+
+//[cols=2]
+== Expériences professionnelles
+
+=== Adeo, Ronchin (via Capgemini) ~Septembre 2015 -> (1,5 ans)~
+*Ingénieur logiciel*
+
+* *Gestion d’application et infrastructure d’un PIM (Step de Stibo)*
+* Gestion d’environnement : Ansible, Jenkins
+** Automatisation de déploiement
+* Coordination technique : Monitoring, déploiement,
+* Expertise Linux : CentoOS 6, OpenSSH, OpenSSL,
+* Packaging d’application : RPM, Shell, Vagrant, Docker
+* Développement : Java, Shell, Python, Groovy
+* Gestion du plan de production
+
+===  Atos Worldline, Seclin ~Mars 2009 -> Août 2015 (6,5 ans)~
+*Analyste-développeur Java*
+
+* Développement et maintenance d’applications de monitoring et de reporting (métrologique et statistique) à destination des collaborateurs et des clients.
+* Développement d'un module de sécurité sur des webservices rest de statistiques (Dropwizard, Oauth2, Guice,Aspect)
+* Pilotage migration d'architecture JMS d'une application de supervision (Java7, Dropwizard, ActiveMQ, Quartz)
+* Mise en place de Métrologie dans nos applications (Yammer Metrics, Guice, Aspect, Grafana)
+* Développement d'un plugin de supervision de service Ftp, Ftps, Sftp (Java, Apache Mina, TestNG, Jsp)
+* Développement d'une librairie de Cache via des aspects (Guice, Aspect, ehCache)
+* Développement d'une application de capacity planning (Tapestry, MySql, Rest)
+* Migration de projet Ant/Cvs vers Maven/Jenkins/Mercurial
+* Développement Web sur une application de supervision (Javascript, Prototype.js, Rest)
+* Etude d’intégration du produit Zabbix : Développement de plugin, Génération automatique de monitoring, Gestion de l’authentification,
+* Développement d’un client pour l’api Zabbix https://github.com/Ameausoone/zabbix-java-client
+* Développement d’une application de génération de supervision couplé à une CMDB (Java8)
+* Gestion de la production de nos applications, et outillage du suivi de la production.
+* Pilotage d'un projet technique de migration de Filer d'une plateforme de 30 serveurs (OpenQRM, CentOS)
+* Mise en place de la forge logicielle de l’entreprise (partie Build) : dvcs, Jenkins, Nexus, Portail, Wiki.
+
+=== Atos Worldline, Seclin ~Février 2006 -> Février 2009 (3 ans)~
+*Technicien Support N3*
+
+* Support d’application dans le domaine du transport
+* Suivi et amélioration du processus de gestion du support
+* Formation support N1 sur les applications
+* Déplacement sur des salons pour du support technique
+
+
+=== Goto Software, Hem ~Septembre 2000 -> Février 2006 (5,5 ans)~
+*Technicien Support*
+
+* Support technique sur les applications éditées par Goto Software
+* Applications dans le domaine du minitel, du web, de l'emailing.
+
+
+<<<
+
+== Compétences
+
+[cols=2]
+=== Global
+
+* Java
+* Maven
+* Linux
+* Jenkins
+* Ansible
+* Tomcat
+* Zabbix
+
+[cols=2]
+=== Languages de développement
+Active::
+* Java ~since 2009~,
+* Groovy ~since 2011~,
+* SQL ~since 2009~,
+* Bash and Unix shells ~since 2006~,
+* Python ~since 2013~,
+
+=== Langues
+* *Français*: Langue maternelle
+* *Anglais*: Niveau professionnel
+
+<<<
+
+== Formation
+
+=== Courte durée
+
+* *Mai 2015* Certification M101J: MongoDB for Java Developers
+* *Avril 2015* Développement AngularJS 1.x
+* *Avril 2013* Administration Tomcat 6.x
+* *Juin 2011* Développement avec Tapestry
+* *Octobre 2010* Développement Javascript/CSS
+* *Juin 2009* Développement Java
+
+=== Initial
+
+CNAM, Lille ~2003 -> 2007~::
+Cours du soir par intermittence, obtention de plusieurs modules du cycle Ingénieur informatique :
+* Génie logiciel
+* Bases de données
+* Recherche opérationnelle et aide à la décision
+* Réseaux et télécommunications
+* Management et organisation des entreprises
+* Management social pour ingénieur et communication en entreprise
+
+Esig, Lille ~1999 –> 2000~::
+
+* Formation Master en Informatique
+
+Lycée Gustave Eiffel, Armentières ~1996 – 1999~::
+
+* Formation BTS, Informatique industrielle
+* BAC S, option Technologie Industrielle
