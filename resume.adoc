@@ -88,9 +88,6 @@ Résumé::
 * Support technique sur les applications éditées par Goto Software
 * Applications dans le domaine du minitel, du web, de l'emailing.
 
-
-<<<
-
 == Compétences
 
 [cols=2]
@@ -116,8 +113,6 @@ Active::
 === Langues
 * *Français*: Langue maternelle
 * *Anglais*: Niveau professionnel
-
-<<<
 
 == Formation
 
