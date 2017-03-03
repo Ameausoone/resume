@@ -83,12 +83,13 @@ Mot-clé : Shell, OpenQRM, CentOS, NFS, Coordination technique
 ** Interconnexion avec le SI
 
 * Etude d’intégration de l'application de supervision Zabbix. (2014, 1 an)
-** POC alimentation des utilisateurs (Python, JsonRPC)
+** POC alimentation des utilisateurs via batch (Python, JsonRPC)
 ** POC interconnexion Zabbix (Language C) avec les plugins de supervision (Java) métier maison (C, Dropwizard, Rest)
 ** POC interconnexion Zabbix avec application de stockage métrologique
 ** Mise en place authentification de l'interface Zabbix via SSO (Jasig CAS)
 ** Développement d’un client pour l’api Zabbix https://github.com/Ameausoone/zabbix-java-client
 ** Développement d’une application de génération de supervision couplé à une CMDB (Java8)
+Mot-clé : Zabbix, Java8, CAS, Python, CMDB, C
 
 * Pilotage d'une migration d'architecture applicative d'une application de supervision (2013-2014, 1,5 an)
 ** Découpage applicatif type microservice
@@ -99,7 +100,7 @@ Mot-clé : Shell, OpenQRM, CentOS, NFS, Coordination technique
 ** POC clustering applicatif avec Quartz, MySql, Dropwizard
 Mot-clé : Java7, Dropwizard, ActiveMQ, Quartz
 
-* Mise en place de métrologie applicative dans les applications (2013, 3 mois)
+* Mise en place de métrologie applicative dans les applications (2013, 4 mois)
 Mot-clé : Dropwizard Metrics, Guice, Aspect, Grafana
 
 * Participation à la mise en place de l'infrastructure de la forge logicielle de Worldline. (2012, 6 mois)
@@ -109,34 +110,40 @@ Mot-clé : Dropwizard Metrics, Guice, Aspect, Grafana
 ** Configuration applicative
 Mot-clé : OpenQRM, Mercurial, Git, Jenkins, Nexus, Wiki, Coordination technique, Tomcat, Apache
 
-Pilotage projet de refonte d'une interface d'administration d'une application de supervision en Vaadin.(2012, 3 mois)
+* Pilotage projet de refonte d'une interface d'administration d'une application de supervision en Vaadin.(2012, 3 mois)
 Mot-clé : Vaadin, Java, TestNG
 
-* Développement d'une application de capacity planning basée sur de la métrologie système. (2011, 3 mois)
+* Développement d'une application de capacity planning basée sur de la métrologie système. (2011, 5 mois)
 ** Développement d'application Web en Tapestry
-** Développement d'une application batch Java Rest
-Mot-clé : Java, Dropwizard, Rest, Tapestry
+** Développement d'une application batch Java
+Mot-clé : Java, Dropwizard, Soap, Tapestry
 
 * Développement d'un plugin de supervision de service Ftp, Ftps, Sftp.(2011, 2 mois)
 Mot-clé : Java, Apache Mina, TestNG, Jsp
 
 * Développement d'une librairie de cache via des aspects.(2011, 2 mois)
-Mot-clé : Guice, AspectJ, ehCache
+** Framework permettant d'ajouter du cache via des annotations
+Mot-clé : Java, Guice, AspectJ, ehCache
 
-* Développement Web sur une application de statistique. (2010, 3 mois)
-** Développement de page web de reporting statistique dans le domaine banquaire
+* Développement d'une page de tableau de bord sur une application de métrologie système. (2010, 3 mois)
+** Mise en place d'un système permettant aux utilisateurs de personnaliser le tableau de bord via XML
+** Développement web d'un tableau de bord avec un rafraîchissement automatique.
+** Développement de webservice de récupération de graphique
+Mot-clé : XML, Java, JSP, Javascript
+
+* Développement Web sur une application de statistique. (2010, 4 mois)
+** Développement de page web de reporting statistique dans le domaine banquaire.
 Mot-clé : Java, Javascript, XML, JSP
 
-* Migration de nos projets construit sur Ant/Cvs vers la stack Maven/Jenkins/Mercurial. (2010, 2 mois)
-** Mavenisation des projets
-** Migration cvs vers Mercurial
+* Migration de nos projets construit sur Ant/Cvs vers la stack Maven/Jenkins/Mercurial. (2009-2010, 3 mois)
+** Mavenisation des projets Ant
+** Migration Cvs vers Mercurial
 ** Mise en place d'intégration continue
 Mot-clé : Dropwizard, Hibernate, Tapestry, MySql, Rest
 
-2009 :
 * Développement d'une console de monitoring de service, avec une vue par environnement, et action en masse. (2009, 4 mois)
 ** Développement de webservice Rest
-** Développement de page web avec
+** Développement de page web avec action en masse d'arrêt/relance de supervision
 Mot-clé : Java, Javascript, JSP, Ajax, Prototype.js
 
 === Atos Worldline, Seclin ~Février 2006 -> Février 2009 (3 ans)~
