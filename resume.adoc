@@ -64,47 +64,52 @@ Résumé::
 
 Missions :
 * Développement et maintenance d’applications de supervision et de reporting (métrologique et statistique) à destination des collaborateurs et des clients.
+** Développement Java, Maven, Javascript
+
 * Gestion de la production de nos applications, et outillage du suivi de la production.
 
-2015 :
-Développement d'un module de sécurité sur des webservices rest de statistiques.
-Mot- clé : Dropwizard, Oauth2, Guice, AspectJ
+Projets :
 
-Pilotage d'un projet technique de migration de Filer d'une plateforme de 30 serveurs.
-Mot- clé : OpenQRM, CentOS, NFS, Coordination technique
+* Développement d'un module d'authentification et d'habilitation sur des webservices Rest de statistique. (2015, 2 mois)
+Mot-clé : Dropwizard, Oauth2, Guice, AspectJ
 
-Participation à la mise en place de Zabbix pour les infrastructures Worldline en Belgique.
+* Pilotage d'un projet technique de migration de Filer d'une plateforme de 30 serveurs. (2015, 3 mois)
+** Coordination technique avec les équipes réseaux, systèmes, Filer
+** Planification des interventions
+** Scripting shell
+Mot-clé : Shell, OpenQRM, CentOS, NFS, Coordination technique
 
-2014 :
-Etude d’intégration de l'application de supervision Zabbix : (1 an)
+* Participation à la mise en place de Zabbix pour les infrastructures Worldline en Belgique. (2015, 3 mois)
+** Mise en place technique
+** Interconnexion avec le SI
 
-* POC interconnexion Zabbix (C) avec les plugins de supervision (Java) métier maison (C, Dropwizard, Rest)
-* POC interconnexion Zabbix avec application de stockage métrologique
-* Mise en place authentification de l'interface Zabbix via SSO (Jasig CAS)
-* Développement d’un client pour l’api Zabbix https://github.com/Ameausoone/zabbix-java-client
-* Développement d’une application de génération de supervision couplé à une CMDB (Java8)
+* Etude d’intégration de l'application de supervision Zabbix. (2014, 1 an)
+** POC alimentation des utilisateurs (Python, JsonRPC)
+** POC interconnexion Zabbix (Language C) avec les plugins de supervision (Java) métier maison (C, Dropwizard, Rest)
+** POC interconnexion Zabbix avec application de stockage métrologique
+** Mise en place authentification de l'interface Zabbix via SSO (Jasig CAS)
+** Développement d’un client pour l’api Zabbix https://github.com/Ameausoone/zabbix-java-client
+** Développement d’une application de génération de supervision couplé à une CMDB (Java8)
 
-2013 :
-Pilotage d'une migration d'architecture applicative d'une application de supervision (1,5 an)
-
-* Découpage applicatif type microservice
-* Planification, estimation de charge
-* Design de l'architecture
-* Coordination des déploiements
-* Intégration de ActiveMQ
-
+* Pilotage d'une migration d'architecture applicative d'une application de supervision (2013-2014, 1,5 an)
+** Découpage applicatif type microservice
+** Planification, estimation de charge
+** Design de l'architecture
+** Coordination des déploiements
+** Intégration de ActiveMQ
+** POC clustering applicatif avec Quartz, MySql, Dropwizard
 Mot-clé : Java7, Dropwizard, ActiveMQ, Quartz
 
-Mise en place de métrologie applicative dans les applications
+* Mise en place de métrologie applicative dans les applications (2013, 3 mois)
 Mot-clé : Dropwizard Metrics, Guice, Aspect, Grafana
 
 2012 :
 Participation à la mise en place de l'infrastructure de la forge logicielle de Worldline
-* Montage de machine virtuel
+* Montage de machine virtuelle sur OpenQRM
 * Configuration Tomcat, Apache
 * Coordination avec les équipes réseaux, filer, systèmes
 * Configuration applicative
-Mot-clé : Mercurial, Git, Jenkins, Nexus, Wiki, Coordination technique, Tomcat, Apache
+Mot-clé : OpenQRM, Mercurial, Git, Jenkins, Nexus, Wiki, Coordination technique, Tomcat, Apache
 
 Pilotage projet de refonte d'une interface d'administration d'une application de supervision en Vaadin.
 Mot-clé : Vaadin, Java, TestNG
@@ -112,16 +117,21 @@ Mot-clé : Vaadin, Java, TestNG
 2011 :
 * Développement d'une application de capacity planning basé sur de la métrologie système.
 ** Développement d'application Web en Tapestry
-** Développement d'application batch 
+** Développement d'application batch
 Développement d'un plugin de supervision de service Ftp, Ftps, Sftp.
 Java, Apache Mina, TestNG, Jsp
 
-Développement d'une librairie de cache via des aspects
+Développement d'une librairie de cache via des aspects.(2 mois)
 Mot-clé : Guice, AspectJ, ehCache
 
 2010 :
-Développement Web sur une application de supervision (Javascript, Prototype.js, Rest)
+Développement Web sur une application de statistique.
+Mot-clé : Java, Javascript, XML
+
 Migration de nos projets construit sur Ant/Cvs vers la stack Maven/Jenkins/Mercurial.
+* Mavenisation des projets
+* Migration cvs vers Mercurial
+* Mise en place d'intégration continue
 Mot-clé : Dropwizard, Hibernate, Tapestry, MySql, Rest
 
 2009 :
