@@ -64,8 +64,7 @@ Résumé::
 
 Missions :
 * Développement et maintenance d’applications de supervision et de reporting (métrologique et statistique) à destination des collaborateurs et des clients.
-** Développement Java, Maven, Javascript
-
+** Développement : Java, JMS, Maven, Dropwizard, Javascript, Rest, JSP
 * Gestion de la production de nos applications, et outillage du suivi de la production.
 
 Projets :
@@ -103,39 +102,41 @@ Mot-clé : Java7, Dropwizard, ActiveMQ, Quartz
 * Mise en place de métrologie applicative dans les applications (2013, 3 mois)
 Mot-clé : Dropwizard Metrics, Guice, Aspect, Grafana
 
-2012 :
-Participation à la mise en place de l'infrastructure de la forge logicielle de Worldline
-* Montage de machine virtuelle sur OpenQRM
-* Configuration Tomcat, Apache
-* Coordination avec les équipes réseaux, filer, systèmes
-* Configuration applicative
+* Participation à la mise en place de l'infrastructure de la forge logicielle de Worldline. (2012, 6 mois)
+** Montage de machine virtuelle sur OpenQRM
+** Configuration Tomcat, Apache
+** Coordination avec les équipes réseaux, filer, systèmes
+** Configuration applicative
 Mot-clé : OpenQRM, Mercurial, Git, Jenkins, Nexus, Wiki, Coordination technique, Tomcat, Apache
 
-Pilotage projet de refonte d'une interface d'administration d'une application de supervision en Vaadin.
+Pilotage projet de refonte d'une interface d'administration d'une application de supervision en Vaadin.(2012, 3 mois)
 Mot-clé : Vaadin, Java, TestNG
 
-2011 :
-* Développement d'une application de capacity planning basé sur de la métrologie système.
+* Développement d'une application de capacity planning basée sur de la métrologie système. (2011, 3 mois)
 ** Développement d'application Web en Tapestry
-** Développement d'application batch
-Développement d'un plugin de supervision de service Ftp, Ftps, Sftp.
-Java, Apache Mina, TestNG, Jsp
+** Développement d'une application batch Java Rest
+Mot-clé : Java, Dropwizard, Rest, Tapestry
 
-Développement d'une librairie de cache via des aspects.(2 mois)
+* Développement d'un plugin de supervision de service Ftp, Ftps, Sftp.(2011, 2 mois)
+Mot-clé : Java, Apache Mina, TestNG, Jsp
+
+* Développement d'une librairie de cache via des aspects.(2011, 2 mois)
 Mot-clé : Guice, AspectJ, ehCache
 
-2010 :
-Développement Web sur une application de statistique.
-Mot-clé : Java, Javascript, XML
+* Développement Web sur une application de statistique. (2010, 3 mois)
+** Développement de page web de reporting statistique dans le domaine banquaire
+Mot-clé : Java, Javascript, XML, JSP
 
-Migration de nos projets construit sur Ant/Cvs vers la stack Maven/Jenkins/Mercurial.
-* Mavenisation des projets
-* Migration cvs vers Mercurial
-* Mise en place d'intégration continue
+* Migration de nos projets construit sur Ant/Cvs vers la stack Maven/Jenkins/Mercurial. (2010, 2 mois)
+** Mavenisation des projets
+** Migration cvs vers Mercurial
+** Mise en place d'intégration continue
 Mot-clé : Dropwizard, Hibernate, Tapestry, MySql, Rest
 
 2009 :
-Développement d'une console de monitoring de service, avec une vue par environnement, et action en masse.
+* Développement d'une console de monitoring de service, avec une vue par environnement, et action en masse. (2009, 4 mois)
+** Développement de webservice Rest
+** Développement de page web avec
 Mot-clé : Java, Javascript, JSP, Ajax, Prototype.js
 
 === Atos Worldline, Seclin ~Février 2006 -> Février 2009 (3 ans)~
