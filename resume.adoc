@@ -41,10 +41,10 @@ Résumé::
 //[cols=2]
 == Expériences professionnelles
 
-=== Sfeir, Lille ~Janvier 2017 -> (1 mois)~
+=== Sfeir, Lille ~Janvier 2017 -> (3 mois)~
 *Ingénieur étude et développement*
 
-=== Adeo, Ronchin (via Capgemini) ~Septembre 2015 -> (1,5 ans)~
+=== Adeo, Ronchin (via Capgemini & Sfeir) ~Septembre 2015 -> (1,5 ans)~
 *Ingénieur logiciel*
 
 * *Gestion d’application et infrastructure d’un PIM (Step de Stibo)*
@@ -56,39 +56,63 @@ Résumé::
 * Développement : Java, Shell, Python, Groovy
 * Gestion du plan de production (DollarU)
 
-=== Capgemini, Lille ~Septembre 2015 -> (1,5 ans)~
+=== Capgemini, Lille ~Septembre 2015 -> Janvier 2017 (1,5 ans)~
 *Ingénieur logiciel*
 
 ===  Atos Worldline, Seclin ~Mars 2009 -> Août 2015 (6,5 ans)~
 *Analyste-développeur Java*
 
-Développement et maintenance d’applications de supervision et de reporting (métrologique et statistique) à destination des collaborateurs et des clients.
-Gestion de la production de nos applications, et outillage du suivi de la production.
+Missions :
+* Développement et maintenance d’applications de supervision et de reporting (métrologique et statistique) à destination des collaborateurs et des clients.
+* Gestion de la production de nos applications, et outillage du suivi de la production.
 
 2015 :
-Développement d'un module de sécurité sur des webservices rest de statistiques (Dropwizard, Oauth2, Guice, AspectJ)
-Pilotage d'un projet technique de migration de Filer d'une plateforme de 30 serveurs (OpenQRM, CentOS)
+Développement d'un module de sécurité sur des webservices rest de statistiques.
+Mot- clé : Dropwizard, Oauth2, Guice, AspectJ
+
+Pilotage d'un projet technique de migration de Filer d'une plateforme de 30 serveurs.
+Mot- clé : OpenQRM, CentOS, NFS, Coordination technique
+
+Participation à la mise en place de Zabbix pour les infrastructures Worldline en Belgique.
 
 2014 :
-Etude d’intégration de l'application de supervision Zabbix :
-** POC interconnexion Zabbix (C) avec les plugins de supervision (Java) métier maison (C, Dropwizard, Rest)
-** POC interconnexion Zabbix avec application de stockage métrologique
-** Mise en place authentification de l'interface Zabbix via SSO (Jasig CAS)
-** Développement d’un client pour l’api Zabbix https://github.com/Ameausoone/zabbix-java-client
-** Développement d’une application de génération de supervision couplé à une CMDB (Java8)
+Etude d’intégration de l'application de supervision Zabbix : (1 an)
+
+* POC interconnexion Zabbix (C) avec les plugins de supervision (Java) métier maison (C, Dropwizard, Rest)
+* POC interconnexion Zabbix avec application de stockage métrologique
+* Mise en place authentification de l'interface Zabbix via SSO (Jasig CAS)
+* Développement d’un client pour l’api Zabbix https://github.com/Ameausoone/zabbix-java-client
+* Développement d’une application de génération de supervision couplé à une CMDB (Java8)
 
 2013 :
-Pilotage d'une migration d'architecture applicative d'une application de supervision, découpage applicatif, mise en place de ActiveMQ.
+Pilotage d'une migration d'architecture applicative d'une application de supervision (1,5 an)
+
+* Découpage applicatif type microservice
+* Planification, estimation de charge
+* Design de l'architecture
+* Coordination des déploiements
+* Intégration de ActiveMQ
+
 Mot-clé : Java7, Dropwizard, ActiveMQ, Quartz
-Mise en place de métrologie applicative dans les applications (Dropwizard Metrics, Guice, Aspect, Grafana)
+
+Mise en place de métrologie applicative dans les applications
+Mot-clé : Dropwizard Metrics, Guice, Aspect, Grafana
 
 2012 :
-Participation à la mise en place de l'infrastructure de la forge logicielle de Worldline () : dvcs, Jenkins, Nexus, Portail, Wiki.
-Pilotage projet de refonte d'une interface d'administration d'une application de supervision.
-Techno : Vaadin, Java, TestNG
+Participation à la mise en place de l'infrastructure de la forge logicielle de Worldline
+* Montage de machine virtuel
+* Configuration Tomcat, Apache
+* Coordination avec les équipes réseaux, filer, systèmes
+* Configuration applicative
+Mot-clé : Mercurial, Git, Jenkins, Nexus, Wiki, Coordination technique, Tomcat, Apache
+
+Pilotage projet de refonte d'une interface d'administration d'une application de supervision en Vaadin.
+Mot-clé : Vaadin, Java, TestNG
 
 2011 :
-Développement d'une application de capacity planning basé sur de la métrologie système.
+* Développement d'une application de capacity planning basé sur de la métrologie système.
+** Développement d'application Web en Tapestry
+** Développement d'application batch 
 Développement d'un plugin de supervision de service Ftp, Ftps, Sftp.
 Java, Apache Mina, TestNG, Jsp
 
@@ -104,14 +128,14 @@ Mot-clé : Dropwizard, Hibernate, Tapestry, MySql, Rest
 Développement d'une console de monitoring de service, avec une vue par environnement, et action en masse.
 Mot-clé : Java, Javascript, JSP, Ajax, Prototype.js
 
-
 === Atos Worldline, Seclin ~Février 2006 -> Février 2009 (3 ans)~
 *Technicien Support N3*
 
 * Support d’application dans le domaine du transport
-* Suivi et amélioration du processus de gestion du support
-* Formation support N1 sur les applications
-* Déplacement sur des salons pour du support technique
+** Suivi et amélioration du processus de gestion du support
+** Formation support N1 sur les applications
+** Déplacement sur des salons pour du support technique
+** Formation des équipes support N1 chez le client en Europe
 
 === Goto Software, Hem ~Septembre 2000 -> Février 2006 (5,5 ans)~
 *Technicien Support*
