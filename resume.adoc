@@ -30,7 +30,7 @@ Téléphone::
 ////
 
 Email::
-    meausoone.a@sfeir.com
+    meausoone.a (at) sfeir.com
 
 Résumé::
     https://www.linkedin.com/in/antoinemeausoone
