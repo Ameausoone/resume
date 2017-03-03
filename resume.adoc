@@ -63,6 +63,7 @@ Résumé::
 *Analyste-développeur Java*
 
 Missions :
+
 * Développement et maintenance d’applications de supervision et de reporting (métrologique et statistique) à destination des collaborateurs et des clients.
 ** Développement : Java, JMS, Maven, Dropwizard, Javascript, Rest, JSP
 * Gestion de la production de nos applications, et outillage du suivi de la production.
